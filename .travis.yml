@@ -8,4 +8,4 @@ before_install:
 
 addons:
    artifacts: true
-   s3_region: "eu-central-1"
+   s3_region: "Frankfurt"
