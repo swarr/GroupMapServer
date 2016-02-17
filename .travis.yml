@@ -4,3 +4,7 @@ jdk:
 
 before_install:
  - chmod +x gradlew
+
+addons:
+   artifacts: true
+   s3_region: "eu-central-1"
