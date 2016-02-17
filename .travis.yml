@@ -8,4 +8,4 @@ before_install:
 
 addons:
    artifacts: true
-   s3_region: "Frankfurt"
+   s3_region: "kms.eu-central-1.amazonaws.com"
